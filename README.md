@@ -27,7 +27,7 @@
 
 ### :woman_technologist: About me :
 
-Я Python разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - :telescope: Now I'm practicing creating telegram bots
 
