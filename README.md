@@ -13,8 +13,7 @@
     </a>
   </div>
 
-  <img src="https://komarev.com/ghpvc/?username=SwairIT&style=flat-square&color=blue" alt="my_views"/>
-
+  <!-- <img src="https://komarev.com/ghpvc/?username=SwairIT&style=flat-square&color=blue" alt="my_views"/>  -->
   <h1>
     hey there
     <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Npd3VvN2w2ZzBpNWJraTFydnFxdXh3c2N4amFrZXNteWZmZ3FkcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
