@@ -88,12 +88,17 @@ class Yaroslav:
 <div align="center">
 
 <a href="https://monkeytype.com/profile/HiL1ne">
-  <img src="https://raw.githubusercontent.com/SwairIt/SwairIT/monkeytype-readme/monkeytype-readme-HiL1ne.svg" alt="My Monkeytype profile — auto-updated every 6 hours" />
+  <img src="./assets/monkeytype.svg" alt="Monkeytype personal bests — auto-updated every 6 hours" width="100%"/>
 </a>
+
+<sub>Pulled straight from the Monkeytype API and redrawn every 6 hours by <a href="./.github/workflows/monkeytype-card.yml">a GitHub Action</a>.</sub>
 
 <br/><br/>
 
-### 🏆 &nbsp;Personal bests
+<details>
+<summary><b>🏆 &nbsp;All personal bests</b></summary>
+
+<br/>
 
 | Mode | Language | WPM | Accuracy |
 | :--- | :--- | ---: | ---: |
@@ -102,13 +107,11 @@ class Yaroslav:
 | **30 s** | 🇷🇺 Russian | **99.17** | 97.29% |
 | **15 s** | 🇬🇧 English | **87.94** | 99.10% |
 | **60 s** | 🇷🇺 Russian | **72.58** | 92.77% |
+| **50 words** | 🇷🇺 Russian | **47.88** | 96.91% |
 | **120 s** | 🇷🇺 Russian | **45.19** | 94.86% |
+| **15 s + punctuation** | 🇷🇺 Russian | **59.15** | 95.12% |
 
-<img src="https://img.shields.io/badge/Tests%20completed-2%2C321-00E5FF?style=flat-square&labelColor=0d1117" alt="Tests"/>
-<img src="https://img.shields.io/badge/Time%20typing-817%20hours-7B2FF7?style=flat-square&labelColor=0d1117" alt="Hours"/>
-<img src="https://img.shields.io/badge/XP-195%2C869-E2B714?style=flat-square&labelColor=0d1117" alt="XP"/>
-
-<sub>The card above updates itself every 6 hours via GitHub Actions — the table is my all-time bests.</sub>
+</details>
 
 </div>
 
