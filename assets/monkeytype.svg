@@ -51,7 +51,7 @@
 
   
   <g transform="translate(18 226)">
-    <text x="0" y="0" font-size="19" fill="#00e5ff" font-weight="800">2,365</text>
+    <text x="0" y="0" font-size="19" fill="#00e5ff" font-weight="800">2,366</text>
     <text x="0" y="18" font-size="11" fill="#8b949e">tests completed</text>
   </g>
   
@@ -61,7 +61,7 @@
   </g>
   
   <g transform="translate(402 226)">
-    <text x="0" y="0" font-size="19" fill="#e2b714" font-weight="800">198,809</text>
+    <text x="0" y="0" font-size="19" fill="#e2b714" font-weight="800">198,850</text>
     <text x="0" y="18" font-size="11" fill="#8b949e">xp earned</text>
   </g>
   
