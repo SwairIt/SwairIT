@@ -22,8 +22,8 @@
     <rect width="175" height="100" rx="12" fill="#11161d" stroke="#1f2733"/>
     <text x="14" y="24" font-size="13" fill="#8b949e" font-weight="600">15 seconds</text>
     <text x="161" y="24" font-size="11" fill="#7b2ff7" font-weight="700" text-anchor="end">RU</text>
-    <text x="14" y="62" font-size="34" fill="#00e5ff" font-weight="800" letter-spacing="-1">111.20</text>
-    <text x="14" y="84" font-size="12" fill="#8b949e">wpm · 96.58% acc</text>
+    <text x="14" y="62" font-size="34" fill="#00e5ff" font-weight="800" letter-spacing="-1">116.72</text>
+    <text x="14" y="84" font-size="12" fill="#8b949e">wpm · 100.00% acc</text>
   </g>
   <g transform="translate(207 78)">
     <rect width="175" height="100" rx="12" fill="#11161d" stroke="#1f2733"/>
@@ -51,17 +51,17 @@
 
   
   <g transform="translate(18 226)">
-    <text x="0" y="0" font-size="19" fill="#00e5ff" font-weight="800">2,371</text>
+    <text x="0" y="0" font-size="19" fill="#00e5ff" font-weight="800">2,377</text>
     <text x="0" y="18" font-size="11" fill="#8b949e">tests completed</text>
   </g>
   
   <g transform="translate(210 226)">
-    <text x="0" y="0" font-size="19" fill="#7b2ff7" font-weight="800">840 h</text>
+    <text x="0" y="0" font-size="19" fill="#7b2ff7" font-weight="800">844 h</text>
     <text x="0" y="18" font-size="11" fill="#8b949e">time typing</text>
   </g>
   
   <g transform="translate(402 226)">
-    <text x="0" y="0" font-size="19" fill="#e2b714" font-weight="800">200,090</text>
+    <text x="0" y="0" font-size="19" fill="#e2b714" font-weight="800">200,384</text>
     <text x="0" y="18" font-size="11" fill="#8b949e">xp earned</text>
   </g>
   
