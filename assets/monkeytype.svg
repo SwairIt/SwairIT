@@ -51,22 +51,22 @@
 
   
   <g transform="translate(18 226)">
-    <text x="0" y="0" font-size="19" fill="#00e5ff" font-weight="800">2,380</text>
+    <text x="0" y="0" font-size="19" fill="#00e5ff" font-weight="800">2,388</text>
     <text x="0" y="18" font-size="11" fill="#8b949e">tests completed</text>
   </g>
   
   <g transform="translate(210 226)">
-    <text x="0" y="0" font-size="19" fill="#7b2ff7" font-weight="800">845 h</text>
+    <text x="0" y="0" font-size="19" fill="#7b2ff7" font-weight="800">849 h</text>
     <text x="0" y="18" font-size="11" fill="#8b949e">time typing</text>
   </g>
   
   <g transform="translate(402 226)">
-    <text x="0" y="0" font-size="19" fill="#e2b714" font-weight="800">201,525</text>
+    <text x="0" y="0" font-size="19" fill="#e2b714" font-weight="800">202,954</text>
     <text x="0" y="18" font-size="11" fill="#8b949e">xp earned</text>
   </g>
   
   <g transform="translate(594 226)">
-    <text x="0" y="0" font-size="19" fill="#e6edf3" font-weight="800">8</text>
+    <text x="0" y="0" font-size="19" fill="#e6edf3" font-weight="800">9</text>
     <text x="0" y="18" font-size="11" fill="#8b949e">max streak</text>
   </g>
 </svg>
