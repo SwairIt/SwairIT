@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:7b2ff7,100:00e5ff&height=180&section=header&text=SwairIt&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Yaroslav%20%C2%B7%20Python%20%2F%20FastAPI%20developer&descAlignY=54&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:7b2ff7,100:00e5ff&height=180&section=header&text=SwairIt&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Yaroslav%20Boev%20%C2%B7%2015%20y.o.%20%C2%B7%20Python%20%2F%20FastAPI%20developer&descAlignY=54&descSize=18" width="100%" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&width=620&lines=I+ship+products%2C+not+tutorials.;FastAPI+%C2%B7+Telegram+Mini+Apps+%C2%B7+PostgreSQL;111+WPM+and+still+climbing." alt="Typing SVG" />
@@ -26,12 +26,15 @@
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"/> &nbsp;About me
 
 ```python
-class Yaroslav:
+class YaroslavBoev:
+    name      = "Ярослав Боев / Yaroslav Boev"
     handle    = "SwairIt"
+    age       = 15
     role      = "Backend-leaning full-stack developer"
     main_lang = "Python"
     focus     = ["FastAPI", "Telegram Mini Apps", "SaaS", "clean architecture"]
     typing    = "111 WPM"
+    products  = ["getdoday.ru", "all.getdoday.ru"]
 
     def currently(self) -> list[str]:
         return [
@@ -41,6 +44,7 @@ class Yaroslav:
         ]
 ```
 
+- 👋 &nbsp;I'm **Yaroslav Boev**, 15. I run [getdoday.ru](https://getdoday.ru/) — a planner used by real students — and a few more products at [all.getdoday.ru](https://all.getdoday.ru/).
 - 🚀 &nbsp;I build **real products end to end** — schema, backend, frontend, deploy, and the boring ops in between.
 - 🐍 &nbsp;**Python is home.** FastAPI + SQLAlchemy + PostgreSQL is my default weapon of choice.
 - 💬 &nbsp;Deep into the **Telegram ecosystem** — bots, Mini Apps, and Stars payments.
@@ -52,8 +56,16 @@ class Yaroslav:
 
 <br/>
 
-Меня зовут **Ярослав**. Пишу на Python — FastAPI, SQLAlchemy, PostgreSQL — и делаю продукты
-целиком: от схемы базы до деплоя на боевой сервер.
+Меня зовут **Ярослав Боев**, мне 15 лет. Пишу на Python — FastAPI, SQLAlchemy, PostgreSQL —
+и делаю продукты целиком: от схемы базы до деплоя на боевой сервер.
+
+Главный проект — **[Doday](https://getdoday.ru/)**: планировщик для школы и учёбы. Домашка
+подтягивается из электронного дневника, расписание уроков, напоминания в Telegram, помодоро.
+Рядом живут ещё несколько продуктов — все они собраны на **[all.getdoday.ru](https://all.getdoday.ru/)**:
+школьное Q&A с разборами, тренажёр билетов ПДД, кабинет для репетиторов.
+
+Один монолит на FastAPI: 86 000 строк кода, 1325 тестов, 43 модуля, 334 статьи в блоге.
+Деплой — одним `git push`.
 
 - 🚀 Довожу проекты **до продакшена**, а не до папки «pet-projects».
 - 💬 Живу в экосистеме Telegram: боты, Mini Apps, оплата через Stars.
@@ -123,7 +135,10 @@ class Yaroslav:
 
 | Project | What it is | Stack |
 | :--- | :--- | :--- |
-| **[Doday](https://github.com/SwairIt/doday)** ⭐ | Todo & team-collaboration app living in three places at once — web, Telegram Mini App and bot — on a single backend. Projects, labels, recurring tasks, Pomodoro, teams, payments via Telegram Stars. | `FastAPI` `HTMX` `Jinja2` `Alpine.js` `PostgreSQL` |
+| **[Doday](https://github.com/SwairIt/doday)** ⭐ · [getdoday.ru](https://getdoday.ru/) | Planner for students: homework pulled from the electronic school diary, lesson schedule, Telegram reminders, Pomodoro, streaks. Web, Telegram Mini App and bot on one backend. 86k lines, 1325 tests. | `FastAPI` `HTMX` `Jinja2` `Alpine.js` `PostgreSQL` |
+| **Razbery** · [getdoday.ru/qa](https://getdoday.ru/qa/) | School Q&A where answers are explanations, not solutions. Grows on organic search. | `FastAPI` `PostgreSQL` `SEO` |
+| **Doday ПДД** · [getdoday.ru/pdd](https://getdoday.ru/pdd/) | Official Russian traffic-rules ticket trainer: 1600 questions, exam mode, mistake stats. | `FastAPI` `Alpine.js` |
+| **Lessio** · [getdoday.ru/lessio](https://getdoday.ru/lessio) | Booking page and cabinet for private tutors: services, schedule, client bookings, Telegram Stars payments. | `FastAPI` `Telegram Mini App` |
 | **[Tap Tower](https://github.com/SwairIt/tap-tower)** | One-tap arcade game for Telegram Mini Apps. Canvas engine, perfect-combo mechanics, Stars monetization. | `Canvas` `Vanilla JS` `Telegram WebApp SDK` |
 | **[1C Sales Analytics](https://github.com/SwairIt/1c-sales-analytics)** | Sales analytics platform with a 1C integration layer and a fake-1C emulator for local development. | `FastAPI` `SQLAlchemy` `PostgreSQL` `Docker` |
 | **[Task Tracker](https://github.com/SwairIt/Task-Tracker)** | CLI task tracker — the small one that taught me clean module boundaries. | `Python` |
@@ -139,6 +154,22 @@ Private repositories, so no links — but this is what I actually build day to d
 | **Order automation for a food-delivery aggregator** | Solo | Managed service that auto-accepts delivery orders for restaurants: landing, marketing blog, SaaS cabinet, REST API, scheduler, feed ingestion, virtualized order tables, xlsx export, and the API surface for a desktop bridge. | `React 19` `Vite` `Express 5` `MariaDB` `Framer Motion` |
 | **Project management platform** | Almost solo | Multi-tenant project tracker: UI, REST backend, SQL migrations, seeding, and an automated deploy pipeline onto a VPS behind nginx + PM2. | `Express` `Vite` `React 19` `MariaDB` `TypeScript` |
 | **Pay-per-task management system** | Contributor | Daily task system where completed work gets paid out — roles, task lifecycle, file uploads, session auth. | `React` `Express` `Drizzle ORM` `MySQL` |
+
+---
+
+## ✍️ &nbsp;Writing
+
+I write long technical posts about what I actually ship — attacks I got hit by,
+holes I found in my own code, and things that broke in production.
+
+- **176 bots, an AI assistant on the user's own key, and 334 articles** — a signup
+  flood, a full security audit of my own project (`X-Forwarded-For` spoofing, stored
+  XSS through JSON-LD, IDOR), SSE streaming in FastAPI and a content system built
+  like software.
+- **Five products in one FastAPI monolith** — HTMX instead of React, Telegram Mini
+  App traps, billing on Telegram Stars.
+
+Everything I build is at **[all.getdoday.ru](https://all.getdoday.ru/)**.
 
 ---
 
